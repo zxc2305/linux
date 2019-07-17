@@ -8,5 +8,5 @@ export JAVA_HOME CLASSPATH PATH
 source /etc/profile
 cd /root
 git clone git@github.com:zxc2305/tomcat.git
-cd /root/tomcat/apache-tomcat-9.0.21/bin
-nohup ./catalina.sh run &
+nohup /root/tomcat/apache-tomcat-9.0.21/bin/catalina.sh run &
+\n
