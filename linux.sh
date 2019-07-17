@@ -10,3 +10,4 @@ cd /root
 git clone git@github.com:zxc2305/tomcat.git
 nohup /root/tomcat/apache-tomcat-9.0.21/bin/catalina.sh run &
 \n
+\n
